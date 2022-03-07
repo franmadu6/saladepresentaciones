@@ -1,3 +1,3 @@
-# madufit
+# Web Sala de presentaciones
 
-Aplicación de entrenamiento para el gimnasio.
+Aplicación para el uso de la animación de la sala de presentaciones
