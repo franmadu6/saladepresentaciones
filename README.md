@@ -1,2 +1,3 @@
-# saladepresentaciones
-web demo para la sala de presentaciones
+# madufit
+
+Aplicación de entrenamiento para el gimnasio.
